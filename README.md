@@ -1,3 +1,4 @@
+![clock](https://github.com/Csengupta1101/Digital-Clock-Python/blob/main/Digi%20Clock%20Image.jpg)
 # Digital Clock Python
 
 This Repository deals with a GUI digital clock made with python.This will require tkinter library for GUI interface.The great part of creating your own GUI apps is that you can customize them however you want.
